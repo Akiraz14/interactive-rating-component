@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component--iNf_8mnpY)
 - Live Site URL: [GitHub Page](https://akiraz14.github.io/interactive-rating-component/)
 
 ## My process
